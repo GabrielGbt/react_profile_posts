@@ -11,12 +11,12 @@ const posts = [
     id: 1,
     author: {
       avatarUrl: 'https://images.unsplash.com/photo-1475650522725-015d35677789?q=80&w=500&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
-      name: 'Junin do grau',
-      role: 'dono da titan150',
+      name: 'Água mineral',
+      role: 'imperatriz',
     },
     content: [
       { type: 'paragraph', content: 'Fala galera' },
-      { type: 'paragraph', content: 'Aprendizado de grau hoje!' },
+      { type: 'paragraph', content: 'Aprendizado de hoje!' },
       { type: 'image', imageUrl: 'jane.design/doctorcare' },
     ],
     publishedAt: new Date('2024-05-03 20:00:00')
