@@ -16,7 +16,7 @@ export function Comment({content, deleteComment}) {
                 <div className={styles.commentContent}>
                     <header>
                         <div className={styles.authorAndTime}>
-                            <strong>Robertinha do morro</strong>
+                            <strong>Robertinha</strong>
                             <time title="17 de janeiro às 5:01" datetime="2070-01-71 08:12:30">Cerca de 1h atrás</time>
                         </div>
                         <button title="Delete">
