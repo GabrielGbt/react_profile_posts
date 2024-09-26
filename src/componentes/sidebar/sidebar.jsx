@@ -14,7 +14,7 @@ export function Sidebar() {
                 <Avatar
                 src="https://images.unsplash.com/photo-1475650522725-015d35677789?q=80&w=500&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                 />
-                <strong>Junin do grau</strong>
+                <strong>Ayrton senna</strong>
                 <span>Dev Web</span>
             </div>
             <footer>
