@@ -10,8 +10,8 @@ import { useState } from 'react';
 export function Post({ author, content, role, publishedAt }) {
     
     const [comments, setComments] = useState([
-        'post daora',
-        'minha belola',
+        'post massa',
+        'hello world',
     ]); 
     const [newCommentText, setNewCommentText] = useState('');
 
